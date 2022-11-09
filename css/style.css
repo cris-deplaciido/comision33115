@@ -93,7 +93,7 @@ p {
     justify-content: space-evenly;
     align-items: center;
     background-color: rgb(160, 201, 199);
-    border: 1px solid black
+    border: 1px solid black;
 }
 
 
@@ -121,4 +121,9 @@ p {
 display: flex;
 flex-wrap: wrap;
 padding: 15px;
+}
+
+.footer {
+    background-color: aquamarine;
+    border: 2px solid black;
 }
